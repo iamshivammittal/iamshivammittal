@@ -8,6 +8,6 @@
 
 - 💬 Ask me about any android development stuff.
 
-- 📫 How to reach me: Here is  my email - shivam1998mittal@gmail.com
-
+- 📫 How to reach me: Here is  my Email - shivam1998mittal@gmail.com
+                      Follow me on twitter - https://twitter.com/shivam9812?s=09    
 -->
